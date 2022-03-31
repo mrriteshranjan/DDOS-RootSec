@@ -46,7 +46,5 @@ GPL-3.0
 =======
 >>>>>>> parent of 2694f8a (New Telegram Group https://t.me/realsecgroup)
 
-> GitHub [@R00tS3c](https://github.com/R00tS3c) &nbsp;&middot;&nbsp;
-
 
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FR00tS3c%2FDDOS-RootSec.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FR00tS3c%2FDDOS-RootSec?ref=badge_large)
